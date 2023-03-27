@@ -28,6 +28,11 @@
         "ACCESS_FINE_LOCATION",
         "WRITE_EXTERNAL_STORAGE"
       ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBchSudpyX9uyaAW8-vx2K4B8VNEf4ITZw"
+        }
+      },
       "web": {
         "favicon": "./assets/favicon.png"
       }
